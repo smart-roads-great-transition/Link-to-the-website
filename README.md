@@ -18,4 +18,5 @@ This idea is not new, and is currently being tested (e.g in California and Holla
 
 The corresponding deliverable will take the form of a fictional news channel short video documentary about energy recovering roads, set as if our policy project was currently reviewed by governmental agencies and pending for approval.
 
-# (Related class hot topic : "preserving human habitats")
+
+(Related class hot topic : "preserving human habitats")
